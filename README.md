@@ -28,7 +28,7 @@ Mustafa WA, Ismail S, Mokhtar FS, Alquran H, Al-Issa Y. Cervical Cancer Detectio
 
 To execute the code locally, first clone the git repo -
 ```bash
-https://github.com/dasshims/UIUC-CS598-FinalProject.git
+git clone https://github.com/dasshims/UIUC-CS598-FinalProject.git
 
 ```
 
