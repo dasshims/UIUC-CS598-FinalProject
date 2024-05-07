@@ -23,6 +23,8 @@ Citations:
 Mustafa WA, Ismail S, Mokhtar FS, Alquran H, Al-Issa Y. Cervical Cancer Detection Techniques: A Chronological Review. Diagnostics (Basel). 2023 May 17;13(10):1763. doi: 10.3390/diagnostics13101763. PMID: 37238248; PMCID: PMC10217496.
 
 
+### Project final submission pdf [link](https://drive.google.com/file/d/1D3bnWSwrOxj5OQu5Rn6EXp6paI61l_5l/view?usp=sharing)
+
 
 ## Steps to run the code
 
