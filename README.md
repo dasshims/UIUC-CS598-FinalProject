@@ -28,18 +28,30 @@ Mustafa WA, Ismail S, Mokhtar FS, Alquran H, Al-Issa Y. Cervical Cancer Detectio
 
 ## Steps to run the code
 
-To execute the code locally, first clone the git repo -
+1. first clone the git repo -
 ```bash
 git clone https://github.com/dasshims/UIUC-CS598-FinalProject.git
-
 ```
+2. Open the folder to an IDE, VSCode preferred 
+3. Open the ipynb file and set the python interpreter to 3.x.x, for our project we used 3.9.6.
 
-Open the folder to an IDE, VSCode preferred
+**If you are running this on Colab** 
+1. make sure to uncomment the following cell to mount the drive folder.
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+```
+2. Create the following directories to store the resulting files
+   3. data
+   4. documentation
+   5. img
+   6. models
 
-Open the ipynb file and set the python interpreter to 3.x.x, for our project we used 3.9.6
 
 ## Requirements
 
 CPU: A multi-core processor with sufficient computational power for training machine learning models. A CPU with at least 4 cores and a clock speed of 2.5 GHz or higher is recommended.
 
 RAM: Adequate RAM to handle the dataset size and model training. A minimum of 8 GB RAM is recommended for handling the preprocessing and training tasks efficiently.
+
+For this project we used a macbook with 32Gigs of RAM and M2 Processor.
